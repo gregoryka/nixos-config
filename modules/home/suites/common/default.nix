@@ -28,6 +28,7 @@ in
             btop = mkDefault enabled;
             direnv = mkDefault enabled;
             eza = mkDefault enabled;
+            fzf = mkDefault enabled;
           };
         };
       };
