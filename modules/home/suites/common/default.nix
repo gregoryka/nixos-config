@@ -25,6 +25,7 @@ in
           tools = {
             atuin = mkDefault enabled;
             bat = mkDefault enabled;
+            btop = mkDefault enabled;
           };
         };
       };
