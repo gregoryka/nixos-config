@@ -27,6 +27,7 @@ in
             bat = mkDefault enabled;
             btop = mkDefault enabled;
             direnv = mkDefault enabled;
+            eza = mkDefault enabled;
           };
         };
       };
