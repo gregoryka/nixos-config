@@ -26,6 +26,7 @@ in
             atuin = mkDefault enabled;
             bat = mkDefault enabled;
             btop = mkDefault enabled;
+            direnv = mkDefault enabled;
           };
         };
       };
