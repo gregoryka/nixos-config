@@ -29,6 +29,7 @@ in
             direnv = mkDefault enabled;
             eza = mkDefault enabled;
             fzf = mkDefault enabled;
+            git = mkDefault enabled;
           };
         };
       };
